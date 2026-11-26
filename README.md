@@ -1,16 +1,68 @@
-## Hi there 👋
+[README.md](https://github.com/user-attachments/files/35467317/README.md)<div align="center">
 
-<!--
-**nnn308964-cpu/nnn308964-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="#about-me">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,50:111C36,100:173B66&height=210&section=header&text=Mohamed%20Ahmed&fontSize=46&fontColor=F8FAFC&fontAlignY=42&desc=Student%20Developer%20%7C%20Web%20Development%20%26%20AI&descSize=16&descAlignY=65&descColor=B8C7DF"
+    width="100%"
+    alt="Mohamed Ahmed — Student Developer. Click to learn about me."
+  />
+</a>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3200&pause=900&color=7CB7FF&center=true&vCenter=true&width=620&lines=Building+to+understand.;Learning+and+creating+for+the+web.;Exploring+AI+and+software+engineering."
+  alt="Building to understand. Learning and creating for the web. Exploring AI and software engineering."
+/>
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+[![Focus](https://img.shields.io/badge/Focus-Web%20Development%20%26%20AI-173B66?style=flat-square)](#)
+[![Location](https://img.shields.io/badge/Location-Egypt-173B66?style=flat-square)](#)
+
+</div>
+
+---
+
+<a id="about-me"></a>
+
+## About Me
+
+I'm a student developer focused on building software and understanding how systems work beneath the surface. I work with **Rust** and **Python**, and build for the web with **HTML, CSS, JavaScript, and TypeScript**.
+
+My interests include **artificial intelligence, large language models, AI agents, systems programming, and software architecture**. I enjoy exploring complex ideas, designing reliable systems, and turning concepts into practical projects through experimentation and continuous learning.
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,rust,python,git,github&theme=dark" alt="HTML5, CSS3, JavaScript, TypeScript, Rust, Python, Git and GitHub" />
+</p>
+
+<p align="center">
+  <sub>Tools and technologies I use or continue to explore.</sub>
+</p>
+
+## Current Focus
+
+- Building responsive and interactive web experiences.
+- Exploring systems programming with **Rust** and scripting with **Python**.
+- Learning more about software engineering and AI.
+- Turning ideas into practical projects.
+
+## Project
+
+### Nexdra
+
+An ongoing project exploring AI-powered tools and intelligent workflows.
+
+---
+
+<div align="center">
+
+**Learn. Build. Experiment. Improve.**
+
+<sub>Thanks for visiting my profile.</sub>
+
+</div>
+
